@@ -1,6 +1,6 @@
 # 911 Calls Data Analysis Project
 
-A comprehensive data analysis project that explores emergency 911 call data using Python, focusing on patterns, trends, and insights from emergency service requests[1].
+A comprehensive data analysis project that explores emergency 911 call data using Python, focusing on patterns, trends, and insights from emergency service requests.
 
 ## Project Overview
 
