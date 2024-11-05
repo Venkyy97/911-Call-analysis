@@ -4,7 +4,7 @@ A comprehensive data analysis project that explores emergency 911 call data usin
 
 ## Project Overview
 
-This project analyzes 911 call data to understand:
+This project analyzes 911 call data from Kaggle to understand:
 - Emergency call frequency and patterns
 - Geographic distribution of calls
 - Types of emergencies
