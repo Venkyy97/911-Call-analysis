@@ -35,7 +35,11 @@ The analysis works with the following key data points:
 ### Temporal Analysis
 - Time series visualization of call volumes
 - Monthly and daily call patterns
+![image](https://github.com/user-attachments/assets/d9df2b6a-5b9a-4364-8475-85060d2934e5)
+![image](https://github.com/user-attachments/assets/a7154e64-267a-41ac-bab8-a485c3ea8c40)
+
 - Peak emergency times identification
+![image](https://github.com/user-attachments/assets/3d915488-e368-4895-b268-56b5a0c79e32)
 
 ### Geographic Analysis
 - Distribution of calls by township
@@ -46,6 +50,8 @@ The analysis works with the following key data points:
 - Categorization of emergency types
 - Frequency analysis of different emergencies
 - Correlation between emergency types and time periods
+![image](https://github.com/user-attachments/assets/2aef5cec-84be-4e72-b195-0819ea54ee1b)
+![image](https://github.com/user-attachments/assets/3702cda5-8816-453e-8dbc-5caeac4e9d05)
 
 ## Getting Started
 
