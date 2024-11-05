@@ -39,7 +39,7 @@ The analysis works with the following key data points:
 ![image](https://github.com/user-attachments/assets/a7154e64-267a-41ac-bab8-a485c3ea8c40)
 
 - Peak emergency times identification
-![image](https://github.com/user-attachments/assets/3d915488-e368-4895-b268-56b5a0c79e32)
+- ![image](https://github.com/user-attachments/assets/3d915488-e368-4895-b268-56b5a0c79e32)
 
 ### Geographic Analysis
 - Distribution of calls by township
