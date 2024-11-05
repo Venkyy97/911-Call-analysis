@@ -1,1 +1,54 @@
-# 911-Call-analysis
+# 911 Calls Data Analysis Project
+
+A comprehensive data analysis project that explores emergency 911 call data using Python, focusing on patterns, trends, and insights from emergency service requests[1].
+
+## Project Overview
+
+This project analyzes 911 call data to understand:
+- Emergency call frequency and patterns
+- Geographic distribution of calls
+- Types of emergencies
+- Temporal trends (daily, monthly, and yearly patterns)
+
+## Technologies Used
+
+- Python 3.x
+- Libraries:
+  - Pandas
+  - NumPy
+  - Matplotlib
+  - Seaborn
+
+## Dataset Features
+
+The analysis works with the following key data points:
+- Timestamp
+- Township
+- Title (type of emergency)
+- Description
+- ZIP Code
+- Latitude/Longitude
+- Reason for call
+
+## Key Analysis Components
+
+### Temporal Analysis
+- Time series visualization of call volumes
+- Monthly and daily call patterns
+- Peak emergency times identification
+
+### Geographic Analysis
+- Distribution of calls by township
+- Heat maps of emergency locations
+- ZIP code based analysis
+
+### Emergency Type Analysis
+- Categorization of emergency types
+- Frequency analysis of different emergencies
+- Correlation between emergency types and time periods
+
+## Getting Started
+
+1. Clone the repository
+```bash
+git clone https://github.com/yourusername/911-calls-analysis.git
